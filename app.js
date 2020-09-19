@@ -54,11 +54,3 @@ combinationGenerator = () => {
 };
 
 combinationGenerator();
-// the great jogger.com
-// the great racoon.com
-// our great jogger.com
-// our great racoon.com
-// the big jogger.com
-// the big racoon.com
-// our big jogger.com
-// our big racoon.com
